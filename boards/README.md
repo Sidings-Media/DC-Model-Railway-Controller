@@ -1,3 +1,2 @@
 # The Boards
-Please note that the designs here may not be up to date. Please visit the [EasyEda Website](https://easyeda.com/Sidings-Media/). All the designs to do with this project will be prefixed
-with ```Model Railway Control System:```.
+We have now switched to kicad as our circuit design software. This means that all designs here are up to date. If creating a new design please use the pageLayout file.

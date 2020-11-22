@@ -14,9 +14,7 @@ is at a stable point in development, work will start on the android app. There a
 
 
 ## The boards
-The boards are designed using Easy EDA. This software unfortunatly does not intergrate with git so we may switch to KiCad in future. At the moment, although there are some designs for 
-boards on GitHub, the most current designs will be available from the [EasyEda Website](https://easyeda.com/Sidings-Media/). All the designs to do with this project will be prefixed by
- ```Model Railway Control System:```.
+These are the main interface between the computer and the railway. The designs for these are in the boards folder and the kicad project files are also there. Please make sure to use the page layout file when creating new schematics. 
 
 
 ## The client software
